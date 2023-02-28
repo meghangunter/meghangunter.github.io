@@ -149,7 +149,8 @@ li{
 
        
       }
-      .icon-align{
+      .icon-align div,
+icon-align .product-title{
           display: inline-block;
       }
   
