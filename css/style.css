@@ -36,6 +36,10 @@ float:right;
   margin-top: -5px;
 
 }
+.product-info-text{
+width:500px;
+word-wrap:wrap;
+}
 .features-info{
     background: whitesmoke;
     min-height: 185px;
