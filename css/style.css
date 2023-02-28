@@ -36,10 +36,7 @@ float:right;
   margin-top: -5px;
 
 }
-.product-title{
-width: 450px;
-    word-wrap: wrap;
-}
+
 .product-info-text{
 width: 450px;
     word-wrap: wrap;
@@ -149,8 +146,11 @@ li{
 
        
       }
-      .icon-align div,
-icon-align .product-title{
+      .icon-align div{
           display: inline-block;
+          width: 450px;
+    word-wrap: wrap;
       }
+
+
   
