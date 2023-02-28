@@ -35,6 +35,10 @@ float:right;
   min-height: 200px;
   margin-top: -5px;
 }
+#product-title{
+overflow-wrap: break-word;
+width:350px;
+}
 
 .features-info{
     background: whitesmoke;
