@@ -34,7 +34,9 @@ float:right;
   background: black;
   min-height: 200px;
   margin-top: -5px;
- width:300px;
+}
+.product-info div{
+width:300px;
 word-wrap:wrap;
 }
 
