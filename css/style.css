@@ -37,7 +37,11 @@ float:right;
 
 }
 .product-title{
-width: 400px;
+width: 450px;
+    word-wrap: wrap;
+}
+.product-info-text{
+width: 450px;
     word-wrap: wrap;
 }
 .features-info{
