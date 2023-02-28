@@ -38,7 +38,7 @@ float:right;
 }
 .product-info-text{
 width:300px;
-word-wrap:wrap;
+word-wrap:normal;
 }
 .features-info{
     background: whitesmoke;
